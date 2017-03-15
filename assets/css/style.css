@@ -1,0 +1,80 @@
+body{
+  font-size: 20px;
+  font-family: 'Georgia','Times','Times New Roman','serif';
+  line-height: 32px;
+  background-image: url('../images/background-pattern-design-31.jpg');
+ 
+}
+
+
+
+h2{
+	padding:15px;
+	margin-bottom:10px;
+	width:275px;
+    color: #edeae7!important;
+    font-family: 'Georgia','Times','Times New Roman','serif' !important;
+	background-color: #f68a18; 
+
+}
+
+
+.rules{
+  padding-top:20px;
+  padding-bottom:50px;
+  padding-left:10px;
+  width:500px;
+  font-family: 'Georgia','Times','Times New Roman','serif';
+  font-weight: bold;
+  color:#33945c;
+  background-color: #f4e0cb;
+}
+
+
+#openNumber{
+	height:75px;
+	width:200px;
+    display:inline-block;
+    font-size: 24px;
+    margin-right:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	background-color: #33945c;
+	float:left;
+}
+
+
+
+#winsLosses{
+	height:75px;
+	width:85px;
+	display:inline-block;
+	margin-top:10px;
+	margin-bottom:10px;
+	background-color: #87ccff;
+}
+
+#totalScore{
+	height:25px;
+	width:200px;
+    margin-right:10px;
+	margin-top:10px;
+	margin-bottom:5px;
+	color:#edeae7;
+	background-color: #21a796;
+}
+
+#score{
+
+	height:60px;
+	width:200px;
+    margin-right:10px;
+	margin-top:5px;
+	margin-bottom:10px;
+	background-color: #21a796;
+    color:#edeae7;
+}
+
+(text){
+	font-weight:bold;
+}
